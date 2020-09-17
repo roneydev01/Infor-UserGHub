@@ -1,0 +1,38 @@
+{
+  "name": "Infor-UserGHub",
+  "version": "1.0.0",
+  "description": "Realiza busca dos usuário no GitHub",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roneydev01/Infor-UserGHub.git"
+  },
+  "keywords": [],
+  "author": "Roney Freitas",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/roneydev01/Infor-UserGHub/issues"
+  },
+  "homepage": "https://github.com/roneydev01/Infor-UserGHub#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.13.1",
+    "bootstrap": "4.5.0",
+    "jquery": "3.5.1",
+    "simple-line-icons": "^2.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.7",
+    "del": "5.1.0",
+    "gulp": "4.0.2",
+    "gulp-autoprefixer": "7.0.1",
+    "gulp-clean-css": "4.3.0",
+    "gulp-header": "2.0.9",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "2.0.0",
+    "gulp-sass": "4.1.0",
+    "merge-stream": "2.0.0"
+  }
+}
